@@ -1,0 +1,101 @@
+[
+  {
+    "page_no": 1,
+    "image_path": "./sessions/41f040bb/uploads/Machine_learning_intership-2_page1_img1.png",
+    "bbox": [
+      108,
+      400,
+      452,
+      8
+    ],
+    "context": "A Industrial Training Report"
+  },
+  {
+    "page_no": 2,
+    "image_path": "./sessions/41f040bb/uploads/Machine_learning_intership-2_page2_img1.png",
+    "bbox": [
+      108,
+      400,
+      452,
+      8
+    ],
+    "context": "Machine Learning With Python"
+  },
+  {
+    "page_no": 3,
+    "image_path": "./sessions/41f040bb/uploads/Machine_learning_intership-2_page3_img1.png",
+    "bbox": [
+      0,
+      1024,
+      713,
+      8
+    ],
+    "context": "Machine Learning With Python"
+  },
+  {
+    "page_no": 14,
+    "image_path": "./sessions/41f040bb/uploads/Machine_learning_intership-2_page14_img1.png",
+    "bbox": [
+      30,
+      1684,
+      582,
+      8
+    ],
+    "context": "Machine Learning With Python"
+  },
+  {
+    "page_no": 14,
+    "image_path": "./sessions/41f040bb/uploads/Machine_learning_intership-2_page14_img2.png",
+    "bbox": [
+      0,
+      640,
+      327,
+      8
+    ],
+    "context": "Machine Learning With Python"
+  },
+  {
+    "page_no": 15,
+    "image_path": "./sessions/41f040bb/uploads/Machine_learning_intership-2_page15_img1.png",
+    "bbox": [
+      34,
+      1494,
+      1414,
+      8
+    ],
+    "context": "Machine Learning With Python"
+  },
+  {
+    "page_no": 18,
+    "image_path": "./sessions/41f040bb/uploads/Machine_learning_intership-2_page18_img1.png",
+    "bbox": [
+      43,
+      1092,
+      982,
+      8
+    ],
+    "context": "Machine Learning With Python"
+  },
+  {
+    "page_no": 18,
+    "image_path": "./sessions/41f040bb/uploads/Machine_learning_intership-2_page18_img2.png",
+    "bbox": [
+      44,
+      596,
+      866,
+      8
+    ],
+    "context": "Machine Learning With Python"
+  },
+  {
+    "page_no": 26,
+    "image_path": "./sessions/41f040bb/uploads/Machine_learning_intership-2_page26_img1.png",
+    "bbox": [
+      64,
+      938,
+      734,
+      8
+    ],
+    "context": "Machine Learning With Python"
+  }
+]

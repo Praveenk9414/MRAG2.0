@@ -1,0 +1,35 @@
+[
+  {
+    "page_no": 3,
+    "image_path": "./sessions/e070eb95/uploads/attention_is_all_you_need_page3_img1.png",
+    "bbox": [
+      95,
+      455,
+      671,
+      8
+    ],
+    "context": "Figure 1: The Transformer - model architecture."
+  },
+  {
+    "page_no": 4,
+    "image_path": "./sessions/e070eb95/uploads/attention_is_all_you_need_page4_img1.png",
+    "bbox": [
+      104,
+      250,
+      384,
+      8
+    ],
+    "context": "Scaled Dot-Product Attention\nMulti-Head Attention"
+  },
+  {
+    "page_no": 4,
+    "image_path": "./sessions/e070eb95/uploads/attention_is_all_you_need_page4_img3.png",
+    "bbox": [
+      106,
+      133,
+      265,
+      8
+    ],
+    "context": "Scaled Dot-Product Attention\nMulti-Head Attention"
+  }
+]

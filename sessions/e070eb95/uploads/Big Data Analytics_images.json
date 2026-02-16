@@ -1,0 +1,321 @@
+[
+  {
+    "page_no": 3,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page3_img1.png",
+    "bbox": [
+      0,
+      2048,
+      1974,
+      8
+    ],
+    "context": "Big Data Characteristics"
+  },
+  {
+    "page_no": 9,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page9_img1.png",
+    "bbox": [
+      0,
+      2500,
+      1003,
+      8
+    ],
+    "context": "Top Big Data Technologies"
+  },
+  {
+    "page_no": 10,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page10_img1.png",
+    "bbox": [
+      0,
+      641,
+      268,
+      8
+    ],
+    "context": "Big Data Stack"
+  },
+  {
+    "page_no": 14,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page14_img1.png",
+    "bbox": [
+      0,
+      874,
+      604,
+      8
+    ],
+    "context": "HDFC Architechture"
+  },
+  {
+    "page_no": 24,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page24_img1.png",
+    "bbox": [
+      0,
+      1200,
+      628,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 25,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page25_img1.png",
+    "bbox": [
+      0,
+      1200,
+      628,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 26,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page26_img1.png",
+    "bbox": [
+      0,
+      2048,
+      957,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 27,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page27_img1.png",
+    "bbox": [
+      0,
+      600,
+      338,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 28,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page28_img1.png",
+    "bbox": [
+      0,
+      957,
+      699,
+      8
+    ],
+    "context": "YARN"
+  },
+  {
+    "page_no": 29,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page29_img1.png",
+    "bbox": [
+      0,
+      1280,
+      720,
+      8
+    ],
+    "context": "YARN"
+  },
+  {
+    "page_no": 30,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page30_img1.png",
+    "bbox": [
+      0,
+      861,
+      563,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 32,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page32_img1.png",
+    "bbox": [
+      198,
+      622,
+      385,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 34,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page34_img1.png",
+    "bbox": [
+      0,
+      741,
+      461,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 38,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page38_img1.png",
+    "bbox": [
+      0,
+      1000,
+      377,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 42,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page42_img1.png",
+    "bbox": [
+      0,
+      779,
+      370,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 44,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page44_img1.png",
+    "bbox": [
+      0,
+      1024,
+      713,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 45,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page45_img1.png",
+    "bbox": [
+      0,
+      526,
+      352,
+      8
+    ],
+    "context": "Spark Architecture"
+  },
+  {
+    "page_no": 53,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page53_img1.png",
+    "bbox": [
+      0,
+      700,
+      245,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 55,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page55_img1.png",
+    "bbox": [
+      0,
+      1120,
+      1276,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 62,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page62_img1.png",
+    "bbox": [
+      0,
+      600,
+      185,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 64,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page64_img1.png",
+    "bbox": [
+      0,
+      600,
+      446,
+      8
+    ],
+    "context": "ZooKeeper Data Model."
+  },
+  {
+    "page_no": 71,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page71_img1.png",
+    "bbox": [
+      0,
+      532,
+      399,
+      8
+    ],
+    "context": "Workﬂow of Zookeeper"
+  },
+  {
+    "page_no": 78,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page78_img1.png",
+    "bbox": [
+      0,
+      390,
+      409,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 93,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page93_img1.png",
+    "bbox": [
+      0,
+      1024,
+      576,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 99,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page99_img1.png",
+    "bbox": [
+      0,
+      600,
+      248,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 101,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page101_img1.png",
+    "bbox": [
+      0,
+      600,
+      258,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 105,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page105_img1.png",
+    "bbox": [
+      0,
+      600,
+      303,
+      8
+    ],
+    "context": "No nearby text found."
+  },
+  {
+    "page_no": 110,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page110_img1.png",
+    "bbox": [
+      0,
+      1698,
+      665,
+      8
+    ],
+    "context": "Solution To a problem"
+  },
+  {
+    "page_no": 111,
+    "image_path": "./sessions/e070eb95/uploads/Big Data Analytics_page111_img1.png",
+    "bbox": [
+      0,
+      1500,
+      1500,
+      8
+    ],
+    "context": "Machine Learning"
+  }
+]

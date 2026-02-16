@@ -1,0 +1,35 @@
+[
+  {
+    "page_no": 1,
+    "image_path": "./sessions/e070eb95/uploads/Praveen_DS_resume_Oct_31_page1_img1.png",
+    "bbox": [
+      0,
+      45,
+      45,
+      8
+    ],
+    "context": "PRAVEEN KUMAR KUSHWAHA"
+  },
+  {
+    "page_no": 1,
+    "image_path": "./sessions/e070eb95/uploads/Praveen_DS_resume_Oct_31_page1_img2.png",
+    "bbox": [
+      0,
+      45,
+      45,
+      8
+    ],
+    "context": "PRAVEEN KUMAR KUSHWAHA"
+  },
+  {
+    "page_no": 1,
+    "image_path": "./sessions/e070eb95/uploads/Praveen_DS_resume_Oct_31_page1_img3.png",
+    "bbox": [
+      0,
+      45,
+      45,
+      8
+    ],
+    "context": "PRAVEEN KUMAR KUSHWAHA"
+  }
+]
